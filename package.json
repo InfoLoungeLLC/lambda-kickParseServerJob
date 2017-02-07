@@ -1,0 +1,29 @@
+{
+  "name": "lambda-kick-parse-server-job",
+  "version": "1.0.0",
+  "description": "AWS Lambda Function for kicking specific Parse Server Cloud job",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/InfoLoungeLLC/lambda-kickParseServerJob.git"
+  },
+  "keywords": [
+    "Parse",
+    "Server",
+    "AWS",
+    "Lambda"
+  ],
+  "author": "Masaki Hidano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InfoLoungeLLC/lambda-kickParseServerJob/issues"
+  },
+  "homepage": "https://github.com/InfoLoungeLLC/lambda-kickParseServerJob#readme"
+}
