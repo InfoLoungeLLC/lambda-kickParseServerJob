@@ -7,7 +7,7 @@ AWS Lambda Function to kick Parse Server Cloud job.
     $ cd lambda-kickParseServerJob
     $ npm install
     $ zip -r lambda-kickParseServerJob.zip index.js node_modules
-Then, upload lambda-kickParseServerJob.zip to AWS Lambda admin panel.
+Then, upload lambda-kickParseServerJob.zip on AWS Lambda admin panel.
 
 ## Environment variables
 Set Environment variables on AWS Lambda admin panel.
